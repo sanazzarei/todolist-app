@@ -3,8 +3,6 @@
 
 A simple task tracker web application that helps you manage your tasks with ease. Organize tasks into Backlog, Ready, Doing, and Review columns for efficient task management.
 
-![Task Tracker Screenshot](screenshot.png)
-
 ## Features
 
 - Categorize tasks into Backlog, Ready, Doing, and Review columns.
