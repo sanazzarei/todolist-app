@@ -30,5 +30,5 @@ A simple task tracker web application that helps you manage your tasks with ease
 2. Use the "+" icon in each column to add new tasks.
 
 Customize
-*To customize the task categories, update the tag class in the HTML file with desired colors.
-*Modify the HTML and CSS to match your preferences and requirements.
+* To customize the task categories, update the tag class in the HTML file with desired colors.
+* Modify the HTML and CSS to match your preferences and requirements.
