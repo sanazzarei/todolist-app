@@ -26,9 +26,8 @@ A simple task tracker web application that helps you manage your tasks with ease
    ```bash
    git clone https://github.com/your-username/task-tracker-app.git
 
-   2. Open the index.html file in your web browser to start using the app.
-
-3. Use the "+" icon in each column to add new tasks.
+1. Open the index.html file in your web browser to start using the app.
+2. Use the "+" icon in each column to add new tasks.
 
 Customize
 *To customize the task categories, update the tag class in the HTML file with desired colors.
